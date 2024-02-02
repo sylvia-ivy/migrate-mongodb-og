@@ -1,5 +1,5 @@
 {
-  "name": "migrate-mongo",
+  "name": "migrate-mongodb-og",
   "version": "11.0.0",
   "description": "A database migration tool for MongoDB in Node",
   "main": "lib/migrate-mongo.js",
@@ -14,11 +14,14 @@
   "author": "Migrate-mongo contributors",
   "license": "MIT",
   "keywords": [
-    "migrate mongo mongodb migrations database"
+    "migrate mongo mongodb migrations database mongodb7"
   ],
+  "publishConfig": {
+    "@sylvia-ivy:registry": "https://npm.pkg.github.com"
+  },
   "repository": {
     "type": "git",
-    "url": "https://github.com/seppevs/migrate-mongo.git"
+    "url": "git+https://github.com/sylvia-ivy/migrate-mongodb-og.git"
   },
   "engines": {
     "node": ">=8"
@@ -57,5 +60,13 @@
     "parserOptions": {
       "ecmaVersion": 2018
     }
+  },
+  "bugs": {
+    "url": "https://github.com/sylvia-ivy/migrate-mongodb-og/issues"
+  },
+  "homepage": "https://github.com/sylvia-ivy/migrate-mongodb-og#readme",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
   }
 }
