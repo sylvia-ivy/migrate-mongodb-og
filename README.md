@@ -7,6 +7,9 @@
 
 migrate-mongo is a database migration tool for MongoDB running in Node.js 
 
+ALL CREDIT IN THIS REPO GOES TO @seppevs 
+THIS COPY IS TO SUPPORT MONGODB7
+
 </p>
     
 ## Installation

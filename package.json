@@ -11,7 +11,7 @@
     "test-coverage": "nyc --reporter=text-lcov mocha --recursive | coveralls",
     "lint": "eslint lib/ test/"
   },
-  "author": "Migrate-mongo contributors",
+  "author": "Seb Van Sande seppevs",
   "license": "MIT",
   "keywords": [
     "migrate mongo mongodb migrations database mongodb7"
