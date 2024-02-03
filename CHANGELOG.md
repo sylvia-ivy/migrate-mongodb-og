@@ -11,6 +11,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 - typo: function async > async function ([`282cd6e`](https://github.com/seppevs/migrate-mongo/commit/282cd6e1527f02a282bbadc29ee61aa0c67bc0b4))
 - fix: exit from process after create command is done ([`addeabf`](https://github.com/seppevs/migrate-mongo/commit/addeabf1c781752771f923370d83f5edfc1a335f))
 - docs: added '{session}' options to Transactions API samples ([`47fa544`](https://github.com/seppevs/migrate-mongo/commit/47fa544a1c249e473135df06f6befa1b6a3caaaf))
+- contributor sylvia-ivy cloned repo and created this new migrate-mongodb-og version to allow support of mongodb@^7.0.0
 
 
 ## [10.0.0] - 2023-04-11

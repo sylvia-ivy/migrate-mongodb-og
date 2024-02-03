@@ -1,16 +1,20 @@
 <p align="center">
-    <img src="/migrate-mongo-logo.png" alt="migrate-mongo database migration tool for Node.js"/>
 
 [![Build Status](https://img.shields.io/travis/seppevs/migrate-mongo.svg?style=flat)](https://travis-ci.org/seppevs/migrate-mongo) [![Coverage Status](https://coveralls.io/repos/github/seppevs/migrate-mongo/badge.svg?branch=master)](https://coveralls.io/r/seppevs/migrate-mongo) [![NPM](https://img.shields.io/npm/v/migrate-mongo.svg?style=flat)](https://www.npmjs.org/package/migrate-mongo) [![Downloads](https://img.shields.io/npm/dm/migrate-mongo.svg?style=flat)](https://www.npmjs.org/package/migrate-mongo) [![Dependencies](https://david-dm.org/seppevs/migrate-mongo.svg)](https://david-dm.org/seppevs/migrate-mongo) [![Known Vulnerabilities](https://snyk.io/test/github/seppevs/migrate-mongo/badge.svg)](https://snyk.io/test/github/seppevs/migrate-mongo)
 
-[![tippin.me](https://badgen.net/badge/%E2%9A%A1%EF%B8%8Ftippin.me/@seppevs/F0918E)](https://tippin.me/@seppevs)
+To tippinme the original creator go to their original repository and find link there https://github.com/seppevs/migrate-mongo 
 
 migrate-mongo is a database migration tool for MongoDB running in Node.js 
 
 ALL CREDIT IN THIS REPO GOES TO @seppevs 
-THIS COPY IS TO SUPPORT MONGODB7
+THIS COPY WAS MADE TO SUPPORT MONGODB7. SEE PACKAGE.JSON under `peerDependencies`.
 
 </p>
+
+#### migrate-mongo database migration tool for Node.js
+
+## Fork notice
+This is a fork of the orignal `migrate-mongo` project, which includes some PRs from the orginal project. See CHANGELOG.md for the chage history
     
 ## Installation
 ````bash
